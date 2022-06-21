@@ -7,6 +7,7 @@ An Todo list app using dart and flutter
 | :---         |     :---:      |          ---: |
 | Homepage     |     ![05e90c96-0ce2-4b86-a6d5-4cb596627f19](https://user-images.githubusercontent.com/69034460/174730944-740ef7fe-2536-4dd9-97b6-2fd816487395.jpg)  |    ![4a0c3859-e155-4a41-9941-1eb055fe695b](https://user-images.githubusercontent.com/69034460/174731026-15d6bf95-d7ea-4223-864e-e219204839e9.jpg)
  |
+ | :---         |     :---:      |          ---: |
 | Add task     |   ![b72323fe-2804-4491-af06-40bacae3af73](https://user-images.githubusercontent.com/69034460/174731406-f176cbd4-805b-4d89-ba26-235a69c42bdf.jpg) |   ![3172290b-b569-4f47-b26d-05fa680f4f23](https://user-images.githubusercontent.com/69034460/174731431-3acea180-cacd-4968-b97f-df1c186a09bf.jpg)
   |
 | View task    |    ![8507dde5-7c9d-445d-82d8-bd7672654466](https://user-images.gi![0292fe5e-bb89-4459-9a74-17e6ed39afe6](https://user-images.githubusercontent.com/69034460/174731579-6ba35748-58aa-4c75-ad32-b69d873485ab.jpg)
