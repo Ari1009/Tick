@@ -1,3 +1,7 @@
+An Todo list developed using Dart and Flutter
+
+![Tick-logos](https://user-images.githubusercontent.com/69034460/174735614-1b87b769-bf9b-4db3-bafd-473a26c99bb1.jpeg)
+
 | Features        | Screenshot-1                                                                                                                                   | Screenshot-2                                                                                                                                   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Homepage        | ![05e90c96-0ce2-4b86-a6d5-4cb596627f19](https://user-images.githubusercontent.com/69034460/174730944-740ef7fe-2536-4dd9-97b6-2fd816487395.jpg) | ![4a0c3859-e155-4a41-9941-1eb055fe695b](https://user-images.githubusercontent.com/69034460/174731026-15d6bf95-d7ea-4223-864e-e219204839e9.jpg) |
